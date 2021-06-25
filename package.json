@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-progra-avanzada",
+  "version": "1.0.0",
+  "description": "API Hospital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaacchava15/proyecto-progra-avanzada.git"
+  },
+  "keywords": [
+    "API",
+    "BACKEND",
+    "WEBSERVICES"
+  ],
+  "author": "IsaacC, AnthonyQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaacchava15/proyecto-progra-avanzada/issues"
+  },
+  "homepage": "https://github.com/Isaacchava15/proyecto-progra-avanzada#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.15"
+  }
+}
